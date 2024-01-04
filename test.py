@@ -1,4 +1,4 @@
-from classes import*
+"""from classes import*
 def load_dictionary_into_tree(file_path, tree: Tree) -> None:
     with open(file_path, 'r') as file:
         for line in file:
@@ -71,7 +71,4 @@ def find_top_10(word_and_value: dict) -> dict:
     top_10_words_dict = {}
     for word in top_10_words_list:
         top_10_words_dict[word] = word_and_value[word]
-    return top_10_words_dict
-
-
-
+    return top_10_words_dict"""
